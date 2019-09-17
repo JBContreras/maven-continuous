@@ -11,9 +11,9 @@
   <name>maven-continuous Maven Webapp</name>
 
   <scm>
-    <connection>scm:git:https://github.com/cloudbeers/maven-continuous.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/cloudbeers/maven-continuous.git</developerConnection>
-    <url>http://github.com/cloudbeers/maven-continuous</url>
+    <connection>scm:git:https://github.com/JBContreras/maven-continuous.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/JBContreras/maven-continuous.git</developerConnection>
+    <url>http://github.com/JBContreras/maven-continuous</url>
     <tag>HEAD</tag>
   </scm>
 
